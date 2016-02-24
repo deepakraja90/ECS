@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ECS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">ECSv1.0</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="find_BT_devices">FIND MY VEHICLE OBD</string>
+    <string name="currentRPM">Current RPM</string>
+    <string name="rpmLabel">RPM</string>
+    <string name="nearestAutoCenter">Find your nearest Auto Service Center</string>
+    <string name="massFlowVSRpm">Your vehicle Mass Air Flow is too low for the expected RPM. Use the above button and service your vehicle immediately</string>
+    <string name="roadSideAssistance">Call Roadside Assistance</string>
+    <string name="rpmWarning">Your vehicle RPM is too low which could cause stalling issues. Please use the below button to call emergency road side assistance</string>
+</resources>
